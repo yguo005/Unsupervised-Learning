@@ -109,12 +109,6 @@ Yes, the clusters generally correspond to dominant underlying themes or combinat
 
 ---
 
-## General Questions & Reflections
-
-*   **How long did this assignment take you?**
-    2 days
-*   **Whom did you work with, and how?**
-    On my own.
 *   **Which resources did you use?**
     *   **Data source:** [Kaggle - Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
     *   **Course code (Colab links provided in original document):**
